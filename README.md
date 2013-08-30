@@ -1,0 +1,4 @@
+ejabberd-mini
+=============
+
+mini ejabberd
